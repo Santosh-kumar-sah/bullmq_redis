@@ -1,4 +1,4 @@
-# bullmq-order-engine
+# Bullmq-order-engine
 
 Initial project structure for an advanced BullMQ and Redis e-commerce order processing engine.
 
