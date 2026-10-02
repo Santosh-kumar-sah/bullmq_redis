@@ -1,4 +1,4 @@
-# Bullmq-order-engine
+# Order Handling Jobs with bullmq engine
 
 Initial project structure for an advanced BullMQ and Redis e-commerce order processing engine.
 
